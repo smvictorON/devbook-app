@@ -1,8 +1,7 @@
 DevBook - frontend
 
 foi utilizado
-- JQUERY
-- JS
-- BOOTSTRAP
-- CSS
 - GOLANG
+- HTML
+- JS / JQUERY
+- CSS / BOOTSTRAP
